@@ -44,7 +44,7 @@ const Player = () => {
         height="90%"
         src={`https://www.youtube.com/embed/${apiData.key}`}
         title="trailer"
-        frameborder="0"
+        frameBorder="0"
         allowFullScreen
       ></iframe>
       <div className="player-info">
