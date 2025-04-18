@@ -6,7 +6,7 @@ Một bản sao giao diện người dùng của **Netflix**, được xây dự
 
 ## 🚀 Demo
 
-👉 [Xem bản demo tại đây](https://tuanhv4287.github.io/my_netflix)
+👉 [Xem bản demo tại đây](https://tuanhv4287.github.io/My_Netflix)
 
 ## 🛠️ Công nghệ sử dụng
 
